@@ -1,4 +1,4 @@
-# ER
+<h7>#ER</h7>
 <h1 align="center">Практические и лабораторные работы по ER diagram </h1> 
 <h3 align="center">Студент группы ИВ1-21 Бекбаев Рустам </h3>
 <p align="center"><b>Инструкция по открытию ER giagram </b></p>
